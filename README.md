@@ -45,7 +45,3 @@ printer_monitor_config.json
 printer_monitor_debug.log
 real printer logs
 ```
-
-## Author
-
-@kyroslee, 2026 Jun
