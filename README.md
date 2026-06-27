@@ -31,13 +31,6 @@ It sends ServerChan alerts when the printer finishes, crashes, hits anti-collisi
 powershell -ExecutionPolicy Bypass -File .\build.ps1
 ```
 
-Output:
-
-```text
-dist\UVPrinterLogMonitor.exe
-dist\UVPrinterLogMonitor_Stable_1.1.0.exe
-```
-
 ## Do Not Commit
 
 ```text
